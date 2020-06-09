@@ -26,7 +26,7 @@ SECRET_KEY = '4o9xe#o=oe-(0tgqb8tx1in9xj_e=@gw!d0sb(xe*t-e=tu2(u'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    # 'thestreamly.herokuapp.com'
+    'https://streamly-streamly.herokuapp.com/'
     ]
 
 
